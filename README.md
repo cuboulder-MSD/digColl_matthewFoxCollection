@@ -62,7 +62,7 @@ Typically 1 audiocassette or 1 videocassette between 30 minutes to 2 hours.
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
 
-Form terms include: [magnetic tapes)](http://vocab.getty.edu/page/aat/300028558) ; [digital audio tapes](http://vocab.getty.edu/page/aat/300265821)
+Form terms include: [magnetic tapes](http://vocab.getty.edu/page/aat/300028558) ; [digital audio tapes](http://vocab.getty.edu/page/aat/300265821)
 
 ### Internet Media Type: 
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
