@@ -2,6 +2,8 @@
 ## Description
 This collection consists of audiovisual materials from the Matthew Fox Papers. These materials primarily include recorded talks and events featuring Matthew Fox, but also consist of music, interviews, memorials, radio shows, and films relevant to the collection and Matthew Fox’s work. These materials range in date from the late 1960s until 2022.
 
+Permanent URL: https://doi.org/10.60807/fmfd-5q20
+
 
 ## Metadata
 ### Collection Name
